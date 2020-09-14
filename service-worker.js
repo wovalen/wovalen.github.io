@@ -14,16 +14,14 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.aff86bc2df9faeac3c2ca9aeaa0f06a6.js"
+  "/precache-manifest.253260df05dfa1e9526432fde46a91b0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "wovalen-app"});
 
-self.addEventListener('message', (event) => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
-});
+workbox.core.skipWaiting();
+
+workbox.core.clientsClaim();
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
