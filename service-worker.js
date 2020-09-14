@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ada7bbc33a259ac1aaf1872ec010f5bb.js"
+  "/precache-manifest.dba8a3500451f82526576b3a0481ae50.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "wovalen-app"});
