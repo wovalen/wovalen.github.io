@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "771a8457e53a53991fe88efbe59dae2b",
+    "revision": "12ac8fbbdd49f8d394bd3c6af1043e17",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robots.txt"
   },
   {
-    "revision": "de111db22e27d4e5c315",
-    "url": "/static/css/app.d22f3b57.css"
+    "revision": "5504abfa2f188760f326",
+    "url": "/static/css/app.bb7b6ba8.css"
   },
   {
     "revision": "d41d8cd98f00b204e9800998ecf8427e",
@@ -28,12 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/colors.css"
   },
   {
-    "revision": "5f0be3f3d9276090a5a6417ad4787b29",
+    "revision": "10fcb469b04a1fde010efeadc71cbd6c",
     "url": "/static/css/fonts.css"
   },
   {
-    "revision": "c61a5cc97fe1bd2840a711c123e220e2",
+    "revision": "8604d00ce1f5c9db406373e0d99683b8",
     "url": "/static/css/main.css"
+  },
+  {
+    "revision": "56237bef1d182bc68d6f50f1985df790",
+    "url": "/static/fonts/bai-jamjuree/BaiJamjuree-Regular.ttf"
   },
   {
     "revision": "0f1d490f450771ccd93c68c81fd25d2d",
@@ -392,8 +396,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/yaghilaz.4d0819af.png"
   },
   {
-    "revision": "de111db22e27d4e5c315",
-    "url": "/static/js/app.f4c25d84.js"
+    "revision": "5504abfa2f188760f326",
+    "url": "/static/js/app.5fddc135.js"
   },
   {
     "revision": "2d30676fd3aa4eb17cfc",
