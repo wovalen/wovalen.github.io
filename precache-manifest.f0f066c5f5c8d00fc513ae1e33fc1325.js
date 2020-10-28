@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64a6f5ec3991cdf4baa5c6577ea0993f",
+    "revision": "771a8457e53a53991fe88efbe59dae2b",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robots.txt"
   },
   {
-    "revision": "bf21a2cc849edf8f378e",
-    "url": "/static/css/app.4347193c.css"
+    "revision": "de111db22e27d4e5c315",
+    "url": "/static/css/app.d22f3b57.css"
   },
   {
     "revision": "d41d8cd98f00b204e9800998ecf8427e",
@@ -28,11 +28,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/colors.css"
   },
   {
-    "revision": "71e43e78c6bf57d8bc2d7a3fd1c6dfe7",
+    "revision": "5f0be3f3d9276090a5a6417ad4787b29",
     "url": "/static/css/fonts.css"
   },
   {
-    "revision": "70cddec103e27eebf30aea27e113c358",
+    "revision": "c61a5cc97fe1bd2840a711c123e220e2",
     "url": "/static/css/main.css"
   },
   {
@@ -280,6 +280,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/fonts/seido-round/BwSeidoRoundDEMO-ThinItalic.otf"
   },
   {
+    "revision": "a23cb6c8430e0e8cae731d2614a027b8",
+    "url": "/static/fonts/seido-round/BwSeidoRoundLight.ttf"
+  },
+  {
     "revision": "270f72df47e036d9cfa11f91f0a94a60",
     "url": "/static/img/arrow_left.270f72df.svg"
   },
@@ -388,8 +392,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/img/yaghilaz.4d0819af.png"
   },
   {
-    "revision": "bf21a2cc849edf8f378e",
-    "url": "/static/js/app.52e448d2.js"
+    "revision": "de111db22e27d4e5c315",
+    "url": "/static/js/app.f4c25d84.js"
   },
   {
     "revision": "2d30676fd3aa4eb17cfc",
